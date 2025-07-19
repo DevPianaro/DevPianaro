@@ -6,6 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pianaro.daniel12@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel.pianaro/)
+[![Linkedin](https://https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/devpianaro)
 
 ![DevPianaro GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPianaro&show_icons=true&theme=dracula)
 
@@ -24,6 +25,9 @@
 </div>
 
 <img alt="Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+</div>
+
+<img alt="NodeJS" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
 </div>
 
 
