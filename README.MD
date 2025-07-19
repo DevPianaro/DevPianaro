@@ -23,4 +23,7 @@
 <img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
+<img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+</div>
+
 Transformando café em código e sonhos em soluções – apaixonado por programação e tecnologia, sempre em busca do próximo desafio!
