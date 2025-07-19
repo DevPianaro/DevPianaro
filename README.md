@@ -19,12 +19,4 @@
 <img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
 Transformando café em código e sonhos em soluções – apaixonado por programação e tecnologia, sempre em busca do próximo desafio!
